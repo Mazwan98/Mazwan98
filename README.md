@@ -1,6 +1,13 @@
-### Wawan -- @Mazwan98 👋
+<p align="center">
+ <img width="100px" src="https://sulistiawan.tech/static/favicon.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Hi There 👋 </h2>
+ <p align="center">
+  Hi, I'm Wawan a python programmer and also like Django or Data Visualization Sites. I often work to create similar applications using Django or Python, websites and Desktop Applications for Data Processing and several other Applications in Government Environments. I am currently working as an Applications Staff in a Government Organization dealing with Applications and Informatics issues. And yes for now I am open to working with you 💕
 
-Hi, I'm Wawan a python programmer and also like Django or Data Visualization Sites. I often work to create similar applications using Django or Python, websites and Desktop Applications for Data Processing and several other Applications in Government Environments. I am currently working as an Applications Staff in a Government Organization dealing with Applications and Informatics issues. And yes for now I am open to working with you 💕
+  </p>
+</p>
+
+
 
 ### How I work
 💌 Send me brief of work\
@@ -12,12 +19,15 @@ Hi, I'm Wawan a python programmer and also like Django or Data Visualization Sit
 
 
 ### On Github, this is my activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mazwan98&show_icons=true" alt="Sulistiawan Activity" /> </p>
 
+<div class="flex-box px-15" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazwan98&show_icons=true&theme=dark" alt="Sulistiawan Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazwan98&layout=compact&theme=dark" alt="Sulistiawan Activity" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Mazwan98&layout=compact&theme=dark" alt="Sulistiawan Activity" /> -->
+</div>
 
 ### Get In Touch
-- Portfolio : https://sulistiawan.tech/
-
+- Portfolio : <a style="color: green !important; font-family: 'Maven Pro', sans-serif !important;" href="https://sulistiawan.tech/" target="_blank_">Sulistiawan.tech/</a>
 
 
 <!--
