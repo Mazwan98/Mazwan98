@@ -27,7 +27,7 @@
 </div>
 
 ### Get In Touch
-- Portfolio : <a style="color: green !important; font-family: 'Maven Pro', sans-serif !important;" href="https://sulistiawan.tech/" target="_blank_">Sulistiawan.tech/</a>
+- Portfolio : <a style="color: green !important; font-family: 'Maven Pro', sans-serif !important;" href="https://hai.sulistiawan.tech/" target="_blank_">Sulistiawan.tech/</a>
 
 <br>
 <br>
