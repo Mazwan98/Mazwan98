@@ -32,9 +32,11 @@
 <h2></h2>
 <div class="flex-box px-15" align="center">
   <code><a href="https://www.credly.com/badges/b7db088e-b440-4ba3-9a14-445454da6949" target="_blank_"><img height="100" src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png"></a></code>
+  <code><a href="https://www.credly.com/badges/5535f490-0e3d-4cce-95eb-bd3070b42176" target="_blank_"><img height="100" src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png"></a></code>
   <code><a href="https://www.credly.com/badges/f17dcdd8-92e9-4b59-91b9-3916e06e3451" target="_blank_"><img height="100" src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png"></a></code>
   <code><a href="https://www.credly.com/badges/98b4ce02-ca41-480e-ba80-0b45383516e2" target="_blank_"><img height="100" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"></a></code>
   <code><a href="https://www.credly.com/badges/99d71d5c-fc2d-4084-8739-8ecc6f22478c" target="_blank_"><img height="100" src="https://images.credly.com/size/340x340/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png"></a></code>
+  <code><a href="https://www.credly.com/badges/cf73a89a-1ba2-4d43-878d-747d6123690b" target="_blank_"><img height="100" src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png"></a></code>
   </div>
   
   <br>
