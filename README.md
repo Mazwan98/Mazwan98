@@ -54,7 +54,7 @@
 
 <div class="flex-box px-15" align="center">
 <!-- ### Get In Touch -->
-- 🌱 <a style="color: green !important; font-family: 'Maven Pro', sans-serif !important;" href="https://hai.sulistiawan.tech/" target="_blank_">Sulistiawan.tech</a> -
+- 🌱 <a style="color: green !important; font-family: 'Maven Pro', sans-serif !important;" href="https://resume.showwcase.com/sulistiawan.pdf" target="_blank_">Download Resume</a> -
 </div>
 <h2></h2>
 
