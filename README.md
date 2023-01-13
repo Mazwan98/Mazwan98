@@ -15,7 +15,7 @@
 💻 Send us the source code or let us setup it on your server\
 💝 Done
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aabedf83-ebac-4523-8ff3-bbc87fa1f871" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 ### On Github, this is my activity
