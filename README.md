@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://sulistiawan.tech/static/favicon.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://web.sulistiawan.tech/static/favicon.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi There 👋 </h2>
  <p align="center">
   Hi, I'm Wawan a python programmer and also like Django or Data Visualization Sites. I often work to create similar applications using Django or Python, websites and Desktop Applications for Data Processing and several other Applications in Government Environments. I am currently working as an Applications Staff in a Government Organization dealing with Applications and Informatics issues. And yes for now I am open to working with you 💕
