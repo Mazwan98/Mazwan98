@@ -1,33 +1,48 @@
-<p align="center">
- <img width="100px" src="https://web.sulistiawan.tech/static/favicon.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Hi There 👋 </h2>
- <p align="center">
-  Hi, I'm Wawan a python programmer and also like Django or Data Visualization Sites. I often work to create similar applications using Django or Python, websites and Desktop Applications for Data Processing and several other Applications in Government Environments. I am currently working as an Applications Staff in a Government Organization dealing with Applications and Informatics issues. And yes for now I am open to working with you 💕
+<img align='right' src = "https://github.com/Mazwan98/github-stats-transparent/blob/output/generated/overview.svg">
 
-  </p>
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Sulistiawan 🧑🏻
+
+<p align="justify">
+  I have been in several training programs in an internship or boot camp that focus on the field of Python, Data, Software and get Secure.
 </p>
 
-### How I work
-💌 Send me brief of work\
-💬 Communicate how we work and project prices\
-✅ Create list of work and milestone\
-✍️ Testing and Getting Feedback\
-💻 Send us the source code or let us setup it on your server\
-💝 Done
+<!-- ## 👁‍🗨 Visitors Count -->
+
+![Visitor Count](https://profile-counter.glitch.me/{Mazwan98}/count.svg)
+
+## ⭐ Popular Repositories
+
+<img align='right' src = "https://github.com/Mazwan98/github-stats-transparent/blob/output/generated/languages.svg">
+
+| 🎓 Courses | [DQLab](https://github.com/Mazwan98/DQLab) · [Dicoding](https://github.com/Mazwan98/Dicoding) |
+|:--------|:--------------------|
+| ⚙ Projects | [Notif Real Time of covid-19](https://github.com/Mazwan98/Notif_Real_Time_of_covid-19) · [PY auto SS](https://github.com/Mazwan98/pyautoss) | 
+| 📝  Articles | [DE Chalenge with Python](https://sulistiawan.showwcase.com/show/17255/data-engineering-chalenge-with-python-ct-corp-x-dqlab) · [Mempelajari Python secara Eksklusif](https://sulistiawan.showwcase.com/show/14887/mempelajari-python-secara-eksklusif) | 
+
+<!-- ## 📃 Latest Articles -->
+<!-- BLOG-POST-LIST:START 
+ - [SPSS | Latest Statistical Analysis Software ?](https://www.belajarstatistik.com/blog/2022/12/29/spss-latest-statistical-analysis-software/)
+ BLOG-POST-LIST:END -->
 
 
 
+## 🔍 You Can Find Me at
 
-### On Github, this is my activity
+<p>
+  <a href="https://www.linkedin.com/in/sulistiawan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="mailto:msulisstia@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
+  <a href="https://www.facebook.com/sulistiawan.ap.1" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/wawan.sulisstia" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+<!--   <a href="https://twitter.com/my_arist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   
+  <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  -->
+<!--  <a href="https://www.kaggle.com/myarist" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>  -->
+</p>
 
-<!-- <div class="flex-box px-15" align="center"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazwan98&layout=compact&theme=dark" alt="Sulistiawan Activity" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazwan98&show_icons=true&theme=dark" alt="Sulistiawan Activity" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Mazwan98&layout=compact&theme=dark" alt="Sulistiawan Activity" /> -->
-<!-- </div> -->
+<img align="right" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <br>
 <br>
+
 
 <h2></h2>
 <div class="flex-box px-15" align="center">
@@ -54,7 +69,7 @@
 
 <div class="flex-box px-15" align="center">
 <!-- ### Get In Touch -->
-- 🌱 <a style="color: green !important; font-family: 'Maven Pro', sans-serif !important;" href="https://resume.showwcase.com/sulistiawan.pdf" target="_blank_">Download Resume</a> -
+ - 🌱 <a style="color: green !important; font-family: 'Maven Pro', sans-serif !important;" href="https://resume.showwcase.com/sulistiawan.pdf" target="_blank_">Download Resume</a> -
 </div>
 <h2></h2>
 
